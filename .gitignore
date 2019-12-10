@@ -103,7 +103,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+question_1.pyq
 env/
 venv/
 ENV/
