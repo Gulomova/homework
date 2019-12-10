@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc84986a-5a89-4bb0-a4d0-e1001c05af22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_1/questions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_1/tasks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_1/question_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1/question_1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +25,16 @@
   <component name="ProjectId" id="1U73hZ4Iywb7phylIMKKUI9geVS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_1/homework_1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework_1/homework_1" />
+      <recent name="$PROJECT_DIR$/homework_1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework_1" />
       <recent name="$PROJECT_DIR$/homework" />
     </key>
   </component>
@@ -45,7 +50,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.questions">
+  <component name="RunManager" selected="Python.question_1">
+    <configuration name="question_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="all_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../projects/Learning-Python/First application python/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_1/question_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="question_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="all_homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../projects/Learning-Python/First application python/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework_1/question_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="questions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="all_homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,9 +138,13 @@
     <list>
       <item itemvalue="Python.tasks" />
       <item itemvalue="Python.questions" />
+      <item itemvalue="Python.question_1" />
+      <item itemvalue="Python.question_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.question_1" />
+        <item itemvalue="Python.question_2" />
         <item itemvalue="Python.questions" />
         <item itemvalue="Python.tasks" />
       </list>
