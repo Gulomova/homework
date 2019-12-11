@@ -18,10 +18,11 @@ while i < len(lst):
 print(n)
 
 #sum recursion
-def recursesum(lst, summ = 0):
+def recursesum(lst, summ=0):
     if lst:
         summ += lst.pop(0)
         summ = recursesum(lst, summ)
     return summ
 n = recursesum(lst)
 print(n)
+
