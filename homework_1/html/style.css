@@ -1,0 +1,60 @@
+body{
+    font-family: Tahoma;
+    background: #AFEEEE;
+    margin: 0;
+    background-image: url(nature.jpg);
+}
+h1 {
+   cursor: help;
+   margin: 0;
+   text-transform: uppercase;
+   padding-bottom: 5px;
+   border-bottom: 3px solid #8B008B;
+}
+form{
+    margin: 0 auto;
+    background: rgba(123, 104, 238);
+    width: 450px;
+    height:500px;
+    padding: 20px;
+    box-shadown: 2px 2px 5px rgba (75, 0, 130)
+}
+.group{
+      nargin: 10 px;
+      padding: 5px;
+}
+lable{
+     padding-left: 10px;
+     text-transform: uppercase;
+}
+input{
+    margin-top: 10px;
+    height: 40px;
+    width: 400px;
+    border-radius:20px/20px;
+    border: none;
+    pendding-left: 15 px;
+    font-size: 18px;
+    box-shadown: 2px 2px 5px rgba (106, 90, 205);
+}
+input:focus{
+    border: 2px solid #7B68EE
+    transform: translateX(15px);
+    width: 385px;
+}
+button{
+      cursor: pointer;
+      padding: 10px 30px;
+      height: 50px;
+      color: #FFFFFF;
+      background: #9932CC;
+      border: none;
+      text-transform: uppercase;
+      font-size: 15px;
+      box-shadown: 2px 2px 5px rgba (128, 0, 128);
+}
+button:hover{
+   opacity: .80;
+   font-weight: bold;
+   transform: scale(1.1);
+}
