@@ -62,3 +62,37 @@ button:hover{
    font-weight: bold;
    transform: scale(1.1);
 }
+footer{
+    width: 100%;
+    height: auto;
+    background: #000000;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+}
+footer a{
+    color: white;
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+footer nav a:hover{
+    border-bottom: 1px solid white;
+}
+.social img{
+    margin-left:20px;
+    margin-bottom: 20;
+}
+.social img:hover{
+    background: #494949;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+}
