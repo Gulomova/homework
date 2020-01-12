@@ -74,7 +74,6 @@ body, html {
 }
 
 .box-content {
-    height: 15%;
     width: 100%;
     border-top-left-radius: 15%;
     border-top-right-radius: 15%;
@@ -110,9 +109,7 @@ body, html {
     padding-top: 3px;
     font-weight: 600;
     color: darkgray;
-    text-decoration: line-through
 }
-
 .checkmark {
     position: absolute;
     top: 0;
@@ -128,6 +125,10 @@ body, html {
     content: "";
     position: absolute;
     display: none;
+}
+
+input[type=checkbox]:checked + label {
+    text-decoration: line-through
 }
 
 .container input:checked ~ .checkmark:after {
@@ -203,4 +204,16 @@ body, html {
     margin: 20px 20px 20px 0;
     border-bottom: 1px solid #eeeeee;
     border-top: 1px solid #eeeeee;
+}
+
+.box-footer {
+    position: relative;
+    top: 40%;
+    text-align: center;
+    color: #A9A9A9
+
+}
+
+.footer-text {
+    color: red;
 }
