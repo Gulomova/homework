@@ -1,7 +1,8 @@
 # Question 4
 
-values = raw_input()
-l = values.split(",")
-t = tuple(l)
-print (l)
-print (t)
+values1 = int(input())
+p = values1.split(',')
+t = tuple(p)
+print(p)
+print(t)
+
