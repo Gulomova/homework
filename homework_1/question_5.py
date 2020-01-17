@@ -1,16 +1,20 @@
 # Question 5
-from builtins import input
 
-class IOstring():
+
+class TaskString():
     def __init__(self):
-        pass
+        self.str1 = ""
 
-    def getString(self):
-        self.s = input()
+    def get_String(self):
+        self.str1 = input()
 
-    def printString(self):
-        print(self.s.upper())
+    def print_String(self):
+        print(self.str1.upper())
 
-xx = IOstring()
-xx.getString()
-xx.printString()
+
+str1 = TaskString()
+str1.get_String()
+str1.print_String()
+
+
+
