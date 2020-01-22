@@ -1,4 +1,5 @@
-#TASK №3
+# TASK №3
+
 
 def fibonacci(n=10, a=0, b=1):
     yield a
@@ -10,6 +11,7 @@ def fibonacci(n=10, a=0, b=1):
         b = c
         yield c
         n -= 1
+
 
 if __name__ == '__main__':
     for n in fibonacci(100):
