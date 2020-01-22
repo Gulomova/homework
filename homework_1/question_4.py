@@ -1,7 +1,7 @@
 # Question 4
 
-values = raw_input()
+values = input()
 l = values.split(",")
 t = tuple(l)
-print (l)
-print (t)
+print(l)
+print(t)
