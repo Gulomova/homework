@@ -17,6 +17,6 @@ def combine_lists(a, b):
     return r
 
 if __name__ == '__main__':
-    a = ['a', 'b', 'c']
-    b = ['A', 'B', 'C', 'D']
+    a = [1, 2, 3]
+    b = [11, 22, 33]
     print(repr(combine_lists(a, b)))
